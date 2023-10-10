@@ -25,10 +25,15 @@ namespace Assignment_Unit_Testing
 
         public override void Withdraw(double amount)
         {
-            if(amount > 0)
+            if (amount > 0)
             {
                 _balance -= amount;
             }
         }
+             public double Balance
+        {
+            get { return _balance; }
+        }
     }
+    
 }

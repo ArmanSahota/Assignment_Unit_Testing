@@ -30,12 +30,17 @@ namespace Assignment_Unit_Testing
                 if (_balance - amount < 0)
                 {
                     _balance -= 15;
+                    _balance -= amount;
                 }
                 else
                 {
                     _balance -= amount;
                 }
             }
+        }
+            public double Balance
+        {
+            get { return _balance; }
         }
     }
 }
