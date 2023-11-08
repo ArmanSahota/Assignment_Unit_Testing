@@ -5,9 +5,9 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Unit_Testing", "Assignment_Unit_Testing\Assignment_Unit_Testing.csproj", "{678905A3-FB3B-427B-A3E7-A6C2D7985B1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checking_Test", "Checking_Test\Checking_Test.csproj", "{C9F5C56C-014C-4957-AD78-751EBCE2769A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checking_Test", "Checking_Test\Checking_Test.csproj", "{C9F5C56C-014C-4957-AD78-751EBCE2769A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingsAccount", "SavingsAccount\SavingsAccount.csproj", "{78FBA5E8-7BC5-4FC8-A79C-15EB126E1B9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SavingsAccount", "SavingsAccount\SavingsAccount.csproj", "{78FBA5E8-7BC5-4FC8-A79C-15EB126E1B9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
